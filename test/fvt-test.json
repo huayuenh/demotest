@@ -1,0 +1,66 @@
+{
+  "stats": {
+    "suites": 0,
+    "tests": 3,
+    "passes": 3,
+    "pending": 0,
+    "failures": 0,
+    "start": "2021-02-02T12:07:35.310Z",
+    "end": "2021-02-02T12:07:35.345Z",
+    "duration": 35
+  },
+  "tests": [
+    {
+      "title": "Check page title",
+      "fullTitle": "Check page title",
+      "file": "/Users/huayuenhui/open-toolchain/guestbook/test/fvt-test.js",
+      "duration": 27,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Check for form",
+      "fullTitle": "Check for form",
+      "file": "/Users/huayuenhui/open-toolchain/guestbook/test/fvt-test.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Check for submit button",
+      "fullTitle": "Check for submit button",
+      "file": "/Users/huayuenhui/open-toolchain/guestbook/test/fvt-test.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "Check page title",
+      "fullTitle": "Check page title",
+      "file": "/Users/huayuenhui/open-toolchain/guestbook/test/fvt-test.js",
+      "duration": 27,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Check for form",
+      "fullTitle": "Check for form",
+      "file": "/Users/huayuenhui/open-toolchain/guestbook/test/fvt-test.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "Check for submit button",
+      "fullTitle": "Check for submit button",
+      "file": "/Users/huayuenhui/open-toolchain/guestbook/test/fvt-test.js",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
